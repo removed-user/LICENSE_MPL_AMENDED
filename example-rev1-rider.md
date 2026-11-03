@@ -30,11 +30,30 @@ A scope being a collection of definitions, or a collection of terms that are con
 
 DEFINITIONS
 
-SCOPE OF LICENSEE
-"You", or "Licensee" refer to any person or entity exercising rights under this License. 
+LICENSEE: "You", or "Licensee" refer to any person or entity exercising rights under this License. 
+
+"Open Source": Software which is available for anyone to see, and Auditable, anyone can use, modify or compile it in full from archives or version control. 
+
+In particular this requires following the SPIRIT of open source as well... requiring the OS have a license of the open source variety 
 
 
-"FREE SOFTWARE DISTRIBUTIONS"
+
+"FREE SOFTWARE DISTRIBUTIONS": Operating systems of the following constraints. 
+
+
+1. Either/any of the following
+    - "Whole Operating Systemdisk images"
+    - "filesystem archives"
+    - "bootable images"
+  
+2. The Kernel, init binary, and initramfs provided each exists - must be fully "Open source", and 
+
+3. The C standard library, distributed compiler toolchains, and build systems are fully "Open Source" "in theory" any person could copy the source code for any component of the "distribution", and combine them to make a functionally identical image. 
+
+
+
+And at least one of the following
+Linux and BSD 
 
 
 2. ADDITION OF NON-COMMERCIAL RESTRICTIONS
