@@ -1,0 +1,5 @@
+# SPDX-FileCopyrightText: © 2026 [Casey Riley]
+# SPDX-License-Identifier: LicenseRef-Custom-MPL-Amended
+#
+# This file is subject to the terms and conditions defined in
+# the LICENSE.md file found in the root directory of this source tree.
