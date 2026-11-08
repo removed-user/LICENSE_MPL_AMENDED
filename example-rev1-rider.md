@@ -18,42 +18,54 @@ This license is granted publicly to anyone who obtains a copy of the Software.
 
 For the purposes of this entire License the terms, words, or any individual term used - if found,  listed or defined within (this - or - the) "definitions section" - should be interpreted using the definition found in "the definitions section", unless explicitly stated otherwise and locally re-defined for the purpose of a lettered or numbered subsection of this entire document. 
 
-In that case the local definition is valid only until the end of the subsection in which the term was locally redefined. At which point the following definitions again, are the source for proper interpretation of such terms.  
+LOCAL_DEFINITION
+In that case; If there is a definition in the the DEFINITIONS section, then the local definition is valid only until the end of the subsection in which the term was locally redefined. At which point the following definitions again, are the source for proper interpretation of such terms.  
+
+Otherwise the local definition may apply until otherwise stated.
 
 Within the following "DEFINITIONS" the term or word on the left of a colon is the word, while the set of words on the right is the meaning for that word or term. 
 
-A Definition category in ALL CAPITAL LETTERS: indicates a collection or grouping of definitions, also implying a scope. 
+CONTEXT
+A Definition category in ALL CAPITAL LETTERS: indicates a collection or grouping of definitions, also implying a shared context, meaning that definitions under that section may relate to one another. 
+This - necessarily suggests that the definition of a term with contextual constraints should also apply in consideration of other terms or definitions of the same "context" group, unless otherwise stated.
 
-A scope being a collection of definitions, or a collection of terms that are considered by the licensor to fit within a categorical definition or description.
+SCOPES
+A scope may be applied to a collection of definitions, or terms, ie: a context group - that/which are considered by the licensor to fit within a categorical definition or description. 
 
-1.A SCOPES
+A/the scope, when referred to as if an object, is the abstract notion of the situation(s), in which something stated is applicable. 
 
 DEFINITIONS
 
-LICENSEE: "You", or "Licensee" refer to any person or entity exercising rights under this License. 
+Licensee: "You", or "Licensee" refer to any person or entity exercising rights under this License. 
 
 "Open Source": Software which is available for anyone to see, and Auditable, anyone can use, modify or compile it in full from archives or version control. 
 
 In particular this requires following the SPIRIT of open source as well... requiring the OS have a license of the open source variety 
 
-
-
 "FREE SOFTWARE DISTRIBUTIONS": Operating systems of the following constraints. 
 
-
-1. Either/any of the following
-    - "Whole Operating Systemdisk images"
+A. Either/any of the following
+    - "Whole Operating System disk images"
     - "filesystem archives"
     - "bootable images"
   
-2. The Kernel, init binary, and initramfs provided each exists - must be fully "Open source", and 
+B. The Kernel, init binary, and initramfs (provided each exists) - must be fully "Open source"
 
-3. The C standard library, distributed compiler toolchains, and build systems are fully "Open Source" "in theory" any person could copy the source code for any component of the "distribution", and combine them to make a functionally identical image. 
+C. The C standard library, distributed compiler toolchains, and build systems are fully "Open Source", to the extent that "in theory" any person could copy the source code, for any component of the "distribution", and combine them, to make a functionally identical image. 
+
+
+header: 
+   Scope: When on the subject of or relating to a file
+top: 
+   Scope: When on the subject of or relating to a file
+   
+Shall be taken to mean the space "immediately following" any special "program required" or "program assistive" instructions.
+
+Such as a demarcation or indication of the proper interpreter to use. 
+ex: the shebang '#!/bin/sh'
 
 
 
-And at least one of the following
-Linux and BSD 
 
 
 2. ADDITION OF NON-COMMERCIAL RESTRICTIONS
