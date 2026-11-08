@@ -12,12 +12,36 @@ The development of Unix wasn't driven by corporate milestones, market research, 
 Instead - It was driven by peer respect and the joy of creation.
 In a culture of continuous, playful iteration.
 
+
+The Spirit of Intellectual Generosity
+
+Because Bell Labs couldn't sell Unix as a product - they did something that sparked a global revolution: they gave it away.
+They shipped tapes containing the Unix source code to universities for the mere cost of shipping and media.
+This triggered a wave of wonder that rippled out of Murray Hill and across the globe.
+Students and professors at Berkeley, MIT, and beyond didn't just use Unix; they could look under the hood, see Ritchie and Thompson’s elegant code, and contribute their own ideas.
+The excitement of the Bell Labs team became contagious, birthing the modern hacker culture and laying the philosophical foundations for the open-source movement.
+Ultimately, the wonder of developing Unix was the feeling of catching lightning in a bottle.
+A small band of friends, operating in the margins of a corporate giant, rewrote the rules of human-computer interaction simply because they wanted a better way to talk to machines and to each other.
+
 The nature of unix-like and posix software "is" - that shared heritage.
+That - is what this liscense is meant to protect.
 
-Unix-Like, Posix 
+That shared heritage, is the foundational basis of modern computing.
+We wouldn't have what we do today, if that never happened.
 
-Commercial: IBM AIX, Oracle Solaris, HP-UX
+Simply being free is not enough.
+
+- Viral Clause 
+- Non-Commercial, Non-Corporate Clause, Prohibiting use.
+- Prohibit centralization around a controlling entity.
+
+
+Commercial: IBM AIX or Redhat, Oracle Solaris, HP-UX, Apple macs
 
 
 
-When works under this liscense are combined with other works of other liscense
+When works under this liscense are combined with other works of other liscenses.
+Wherever possible, and to the greatest extent of the law, code liscensed under another free, open, common, or public source liscense... 
+When released in combined form, with any program, snippet, code, or file using, or containing this licsense.
+Shall inherit this liscense in it's entirety - into every component, of any program wherein this clause has valid legal standing.
+Thus requiring the denotion of a valid spdx liscense identifier, incororated as a header, in the top of the file, following a/any/the "shebang".
